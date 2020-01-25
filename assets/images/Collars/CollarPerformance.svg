@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="29657 0 22400 12966">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+	.outline{fill:none;stroke:#0A1923;stroke-width:400;stroke-miterlimit:1} 
+	.loop{fill:#FFF}
+	.Collar.fill{fill:#FFF}
+	.Insert.fill{fill:#FFF}
+   ]]>
+  </style>
+  <linearGradient id="NeckFade" gradientUnits="objectBoundingBox" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0" stop-color="#CCC"/><stop offset="1" stop-color="#333"/></linearGradient>   
+ </defs>
+ <path fill="none" d="m29857 2200c3300 1500 18700 1500 22000 0v500a11000 10000 1 0 1-22000 0v-500z"/>
+ <path class="loop outline" d="m29857 2200c3300 1500 18700 1500 22000 0v750c-3300 1500-18700 1500-22000 0z"/>
+ <path class="Insert fill outline" d="m31331 7700c3300 2500 15752 2500 19052 0a11000 10000 1 0 1-19052 0z"/>
+ <g class="Collar fill outline">
+  <path d="m29857 2200c3300 1500 18700 1500 22000 0c-990-600-2420-2200-2750-1900c-3300 500-13200 500-16500 0c-330-300-1760 1300-2750 1900z"/>
+  <path d="m29857 2200c990-600 2420-2200 2750-1900c0 9000 2200 4000 471.9 9471a11000 10000 1 0 1-3221.9-7071v-500zm22000 0c-990-600-2420-2200-2750-1900c0 9000-2200 4000-471.9 9471a11000 10000 1 0 0 3221.9-7071v-500z"/>
+ </g>
+</svg>

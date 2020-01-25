@@ -1,0 +1,748 @@
+@media screen and (min-width: 1440px){
+    #GarSel img {
+        width:150px;
+    }
+
+    #StyleSel img {
+        width: 150px;
+    }
+
+    #GarSel h4 {
+        font-size: 17px;
+        width: 150px;
+    }
+    #ColourPicker li {
+        height: 3.5em;
+        min-width: 1.4em;
+        max-width: 1.5em;
+    }
+}
+@media screen and (max-width: 1440px) {
+    #GarSel img {
+        width:120px;
+    }
+
+    #StyleSel img {
+        width: 120px;
+    }
+
+    #GarSel h4 {
+        font-size: 15px;
+        width: 120px;
+    }
+
+    #ColourPicker li {
+        height: 3em;
+        min-width: 1.5em;
+        max-width: 1.5em;
+    }
+
+    #header {
+        left: 46px;
+        top: 32px;
+        width: 80px;
+        height: 32px;
+    }
+
+    #navbar-header {
+        width: 55px;
+        height: 55px;
+        padding-top: 6px;
+    }
+
+    #BookletDesigns {
+        height: 370px;
+    }
+
+    .center-panel .front_back {
+        width: 100%;
+    }
+
+    .editbooklet {
+        margin-top: 12rem;
+    }
+
+    .front_back .optact li {
+        width: 100px;
+        display: block;
+        padding: 0 15px;
+        margin: 5px;
+    }
+
+    #DesignSel img {
+        max-height: 80px;
+    }
+
+    #graphic object {
+        width: 100%;
+        min-width: 220px;
+    }
+}
+
+@media all and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 1024px) {
+    #PRODNAV a {
+        font-size: 16px;
+    }
+
+    .center-panel .front_back {
+        left: 0!important;
+        width: 80%;
+        margin-bottom: 0;
+    }
+
+    ul#ViewSel {
+        display: flex;
+    }
+
+    #SubMain .container {
+        width: 80%;
+    }
+
+    section.active {
+        margin-top: 0;
+    }
+
+    #BookletDesigns li svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    #BookletDesigns ul span {
+        margin-right: 20px;
+    }
+
+    #graphic object {
+        min-width: 160px;
+    }
+}
+
+@media all and (max-width: 991px) {
+    #customise-container {
+        left: 20%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    text#Seniors {
+        text-orientation: upright;
+    }
+
+    #GarSel li {
+        padding: 0;
+        padding-bottom: 25px;
+        width: 100%;
+        max-width: 190px;
+    }
+
+    #GarSel img {
+        width: 150px!important;
+        margin-bottom: -15px;
+        height: 170px;
+    }
+
+    #GarSel h4 {
+        width: 150px!important;
+    }
+
+    #StyleSel img {
+        width: 170px!important;
+        padding: 10px;
+    }
+
+    #section {
+        top: 12%!important;
+    }
+
+    .Senior.fill {
+        fill: #FFF;
+        writing-mode: tb;
+        text-orientation: upright;
+    }
+
+    #graphic object {
+        height: 70%;
+        max-width: 150px;
+        width: 100%;
+    }
+
+    #main-header-menu {
+        height: 110px;
+        z-index: 1000;
+        width: 100%;
+    }
+
+    .container {
+        width: 100%;
+        height: auto;
+        padding-left: 0;
+    }
+
+    .slick-prev, .slick-next {
+        display: none!important;
+    }
+
+    .nav-left {
+        z-index: 1000;
+        position: relative;
+        top: -8px;
+        height: auto;
+    }
+
+    #PRODNAV {
+        background: #e8e8e8;
+        margin-top: 10px;
+        z-index: 1000;
+        width: 100%;
+        display: flex;
+        height: 40px;
+    }
+
+    #PRODNAV .active a {
+        text-align: center;
+        font-size: 11px;
+    }
+
+    #PRODNAV a {
+        text-align: center;
+        font-size: 11px!important;
+    }
+
+    #PRODNAV div.active {
+        height: 40px;
+    }
+
+    ul#OptionSel {
+        border-left: none;
+        width: 100%;
+    }
+
+    .nav-right #Next, button#Previous {
+        margin-top: 1px;
+        margin-bottom: 0;
+    }
+
+    #PRODNAV div {
+        margin-bottom: 0;
+        width: 25%;
+    }
+
+    #PRODNAV .active {
+        width: 25%;
+    }
+
+    .nav-right {
+        z-index: 1000;
+        position: fixed;
+    }
+
+    #DesignSel img {
+        max-height: 80px;
+    }
+
+    #logodiv fieldset div.active>div:first-child select, #logodiv fieldset div.active>div:not(:first-child) {
+        margin-left: 0;
+    }
+
+    #logodiv select,#logodiv fieldset textarea, #logodiv fieldset input {
+        width: 100%;
+    }
+
+    #customise-container {
+        left: 0;
+    }
+
+    .Colour h2 {
+        display: block;
+        margin: 0;
+        color: #fff;
+        margin-bottom: 15px;
+    }
+
+    .nav-right #Next, button#Previous {
+        /* top: 50%; */
+        /* position: fixed; */
+        width: 40px;
+    }
+
+    .nav-left #Previous svg {
+        width: auto;
+    }
+
+    h2 {
+        padding: 10px;
+        font-size: 22px;
+        margin-top: 80px;
+    }
+
+    section.active {
+        margin-top: 0;
+    }
+
+    #GarSel .row {
+        display: none;
+    }
+
+    #GarSel .prev, #GarSel .next {
+        margin-right: -3rem;
+        margin-left: -5rem;
+    }
+
+    #header {
+        position: absolute;
+        left: 20px!important;
+        top: 20px!important;
+        width: 50px!important;
+    }
+
+    #navbar-header {
+        position: absolute;
+        right: 2.1%;
+        z-index: 1000;
+        width: 35px!important;
+        height: 35px!important;
+        font-size: 20px!important;
+        padding-top: 4px!important;
+    }
+
+    #Viewer {
+        margin-left: 0;
+    }
+
+    #graphic object {
+        height: 100%!important;
+    }
+
+    #graphic {
+        z-index: 999;
+        left: 0;
+        padding: 10px;
+        background: #e8e8e8;
+        position: fixed;
+        bottom: 0;
+        border-top: 2px solid #212121;
+    }
+
+    #NavDirection {
+        position: fixed;
+        bottom: 10%;
+    }
+
+    #DYOfooter {
+        z-index: 1000;
+        display: block;
+        list-style: none;
+        bottom: 2%;
+        position: fixed;
+        left: 8%;
+        width: 35px;
+    }
+
+    body.viewzoom #graphic {
+        width: 100%;
+        height: 100%;
+        max-height: 100%;
+    }
+
+    body.viewzoom #ViewZoom #Plus {
+        display: none;
+    }
+
+    #ViewSel {
+        display: flex;
+        margin-left: 0;
+    }
+
+    .Customise #customise-container {
+        position: relative;
+        margin-bottom: 50%;
+        width: 100%;
+        height: auto;
+        display: block;
+        /* margin-left: 15%; */
+        /* margin: 0 auto; */
+    }
+
+    .Customise #customise-container .left {
+        position: relative;
+        margin-top: 30px;
+        left: 0;
+    }
+
+    .Customise #customise-container .left .Colour {
+        margin-top: 0%!important;
+        width: 100%;
+        right: 0;
+        position: relative;
+        height: auto;
+    }
+
+    .Customise #customise-container .left .Colour .content {
+        left: 0;
+        height: auto;
+        text-align: center;
+    }
+
+    .Customise #customise-container .left .Colour .content #fields fieldset {
+        width: 100%;
+    }
+
+    .Colour label {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+
+    .Customise #customise-container .content {
+        top: 0;
+        position: relative;
+    }
+
+    .Customise #customise-container .right {
+        width: 100%;
+        display: block;
+        right: unset;
+        height: auto;
+        position: relative;
+        margin-top: 0;
+    }
+
+    .Customise #customise-container .right .right-content {
+        width: 100%;
+    }
+
+    #OptionSel li.active>*.optact {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        top: auto;
+        padding: 10px;
+        justify-content: center;
+    }
+
+    #OptionSel li>span {
+        display: block;
+        margin-bottom: 10px;
+        width: 100%;
+        padding: 10px;
+        font-weight: 700;
+        margin-left: 0;
+    }
+
+    #OptionSel img, #OptionSel svg {
+        width: 100%;
+        max-width: 100%;
+        max-height: 100px;
+        padding: 10px;
+    }
+
+    .overlay {
+        z-index: 10000;
+    }
+
+    #logos label svg, #logodiv label svg {
+        width: auto;
+    }
+
+    .nav-right #BookletButton {
+        top: 110%;
+        position: fixed;
+    }
+
+    .nav-right #BookletButton button {
+        height: 50px;
+        font-size: 10px;
+        width: 89px;
+        max-width: 100%;
+        height: 50px;
+    }
+
+    #fields {
+        padding: 5px!important;
+    }
+
+    #ColourPicker {
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-justify-content: center;
+        justify-content: center;
+        width: 100%;
+        height: auto;
+        position: static;
+        margin-left: -5%;
+    }
+
+    #ColourPicker li {
+        -webkit-flex: 0 0 11%;
+        flex: 0 0 11%;
+        height: 1.5em!important;
+        min-width: 1.5em!important;
+        max-width: 1.5em!important;
+        margin: 1px;
+        cursor: pointer;
+        box-sizing: border-box
+    }
+
+    .Design .container {
+        width: 70%;
+    }
+
+    #DesignSel {
+        width: 100%;
+        justify-content: center;
+    }
+
+    #NavDirection {
+        left: 0;
+        margin-left: 0;
+        width: 100%;
+        bottom: 18%;
+        z-index: 999;
+        display: block;
+        position: fixed;
+    }
+
+    #NavDirection h2 {
+        padding: 10px;
+        font-size: 15px;
+        margin: 0;
+    }
+
+    #cart-items-count {
+        right: 100px;
+        position: absolute;
+        top: 10px;
+    }
+
+    #cart-items-count li img {
+        fill: #212121;
+        width: 60px;
+        height: ;
+    }
+
+    #Colours input, #fields input {
+        width: 100%!important;
+        height: 3rem;
+        border-radius: 0;
+        display: block;
+    }
+
+    .EnquiryForm {
+        position: relative;
+        width: 100%;
+        border-radius: 10px;
+        padding: 0 20px 20px 20px;
+    }
+
+    .EnquiryForm h2 {
+        padding-top: 20px;
+    }
+
+    .slider-area {
+        position: relative!important;
+        background: transparent!important;
+        width: 100%!important;
+        height: auto!important;
+        display: block!important;
+        margin-top: 0;
+        right: unset!important;
+    }
+
+    #SubMain .container {
+        width: 100%;
+    }
+
+    #captcha>div {
+        max-width: 100%;
+    }
+
+    #BookletDesigns figure img {
+        max-height: 270px;
+    }
+
+    .editbooklet a.Edit,.editbooklet a.Delete, .editbooklet span.Download {
+        display: block;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .center-panel .front_back {
+        position: fixed;
+        left: 0 !important;
+        bottom: 20%;
+        z-index: 999;
+        display: none;
+    }
+
+    .front_back .optact li {
+        margin: 0;
+        padding: 0;
+    }
+
+    ul#ViewSel {
+        display: block;
+    }
+
+    button#Previous {
+        left: -5px;
+    }
+
+    #OptionSel > li {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    #GarSel li {
+        padding:0;
+        padding-bottom: 10px;
+        width: 100%!important;
+    }
+
+    #GarSel img {
+        width: 100px;
+    }
+
+    #GarSel h4 {
+        max-width: 100%;
+    }
+
+    #StyleSel {
+        margin-top: -10%;
+        margin-left: -30px;
+        flex-wrap: wrap;
+    }
+
+    #StyleSel li {
+        margin: 0;
+    }
+
+    #StyleSel h2 {
+        margin: 0;
+    }
+
+    #DesignSel img {
+        max-height: 60px!important;
+    }
+
+    .Customise #customise-container .left .Colour {
+        /* margin-top: 45%!important; */
+    }
+
+    .Customise #customise-container .left .Colour .content {
+        top: 0!important;
+    }
+
+    #fields {
+        padding: 0!important;
+    }
+
+    #OptionSel li.active>*.optact {
+        left: 0!important;
+    }
+
+    ul#OptionSel {
+        height: 180px;
+    }
+}
+
+@media print {
+    @page {
+        size: A4 portrait;
+        margin: 10px
+    }
+
+    #main-header-menu,#navbar-header,nav,.EnquiryForm,.col-md-12 {
+        display: none;
+    }
+
+    #SubMain,.SubmitOrder.active,#BookletDesigns {
+        display: block
+    }
+
+    body {
+        width: 21cm;
+        height: auto;
+        background: #FFF;
+        display: block;
+        box-sizing: border-box;
+        padding: 1cm;
+        margin: 0;
+    }
+
+    #BookletOverview {
+        width: 100%;
+        padding: 0;
+        height: auto;
+        position: unset;
+    }
+
+    #BookletDesigns {
+        height: auto;
+        width: inherit;
+        padding: 0;
+    }
+
+    #BookletDesigns ul {
+        margin: 5px;
+        padding: 0;
+        display: block;
+    }
+
+    #BookletDesigns figure {
+        width: inherit;
+        height: 27.7cm;
+        margin: 0;
+        padding: 10px;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        page-break-after: always;
+        page-break-inside: avoid;
+        break-after: page;
+        break-inside: avoid;
+        box-sizing: border-box;
+    }
+
+    #BookletDesigns figure.bookactive {
+        display: flex;
+    }
+
+    #BookletDesigns figure img {
+        display: block;
+        margin-bottom: 10px;
+        max-width: 100%;
+        width: 420px;
+        height: auto;
+        min-height: 100px;
+    }
+
+    #SubMain .container {
+        width: inherit;
+        position: static;
+        margin: 0;
+        padding: 0
+    }
+
+    html {
+        background: transparent
+    }
+
+    #BookletDesigns figure:last-child {
+        break-after: avoid;
+        page-break-after: avoid
+    }
+
+    #section {
+        position: static
+    }
+
+    section.active {
+        margin: 0
+    }
+}
+}

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 706" style="enable-background:new 0 0 500 706;" xml:space="preserve">
+<style type="text/css">
+	<![CDATA[
+	@font-face{font-family:'codaheavy';src:url('/fonts/coda-heavy-webfont.woff') format('woff')}
+	text{font-family:Impact,codaheavy,sans-serif}
+	.Number.fill{fill:#000}
+	.NumberOutline.stroke{fill:none;stroke:#777;stroke-width:2.5}
+	.Colour1.fill{fill:#FFFFFF;}
+	.NeckAndArmTrim.fill{fill:#3AA1D3;}
+	.Gradient1.stopColor{stop-color:#3AA1D3;}
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#8DCDE5;}
+	.st2{fill:#ECECEC;}
+	.st8{fill:#D1EBF3;}
+	.st3{fill:#F7F9FA;}
+	.st4{fill:#F1F7F9;}
+	.st6{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#221F1F;stroke-width:0.75;stroke-miterlimit:10;}
+	.st7{fill:#3AA1D3;}
+	]]>
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="250" y1="-51.0871" x2="250" y2="767.1545">
+	<stop class="Gradient1 stopColor" offset="1.014270e-003" style="stop-color:#242E64; stop-opacity:1"/>
+	<stop class="Gradient1 stopColor" offset="0.1595" style="stop-color:#6BB4D4; stop-opacity:0.8405"/>
+	<stop class="Gradient1 stopColor" offset="0.1779" style="stop-color:#7CBBD7; stop-opacity:0.8221"/>
+	<stop class="Gradient1 stopColor" offset="0.2234" style="stop-color:#9FCBDF; stop-opacity:0.7766"/>
+	<stop class="Gradient1 stopColor" offset="0.2715" style="stop-color:#BDD8E5; stop-opacity:0.7285"/>
+	<stop class="Gradient1 stopColor" offset="0.3223" style="stop-color:#D3E2E9; stop-opacity:0.6777"/>
+	<stop class="Gradient1 stopColor" offset="0.3771" style="stop-color:#E3E9EC; stop-opacity:0.6229"/>
+	<stop class="Gradient1 stopColor" offset="0.4386" style="stop-color:#EDEEEE; stop-opacity:0.5614"/>
+	<stop class="Gradient1 stopColor" offset="0.5209" style="stop-color:#F0EFEF; stop-opacity:0.4791"/>
+	<stop class="Gradient1 stopColor" offset="0.5863" style="stop-color:#EDEDEE; stop-opacity:0.4137"/>
+	<stop class="Gradient1 stopColor" offset="0.6439" style="stop-color:#E2E7EB; stop-opacity:0.3561"/>
+	<stop class="Gradient1 stopColor" offset="0.6987" style="stop-color:#D0DDE5; stop-opacity:0.3013"/>
+	<stop class="Gradient1 stopColor" offset="0.7518" style="stop-color:#B6CFDD; stop-opacity:0.2482"/>
+	<stop class="Gradient1 stopColor" offset="0.8036" style="stop-color:#95BDD3; stop-opacity:0.1964"/>
+	<stop class="Gradient1 stopColor" offset="0.8537" style="stop-color:#6EA7C7; stop-opacity:0.1463"/>
+	<stop class="Gradient1 stopColor" offset="0.8701" style="stop-color:#5F9FC2; stop-opacity:0.1299"/>
+	<stop class="Gradient1 stopColor" offset="0.9482" style="stop-color:#47769F; stop-opacity:0.0518"/>
+	<stop class="Gradient1 stopColor" offset="1" style="stop-color:#365986; stop-opacity:0"/>
+</linearGradient>
+<path class="st0" d="M0,705.15h500c0-135.01,0-270.02,0-405.02c-3.93-1.55-7.67-3.22-11.24-4.98c-3.52-1.67-7.35-3.65-11.36-6.06
+	c-32.6-19.5-46.84-47.42-54.73-62.89c-20.03-39.27-29.26-111.84-13.08-199.99c-26.17-7.71-52.34-15.41-78.51-23.12
+	c-1.45,2.51-3.76,6.18-7.11,10.31c-2.18,2.77-4.8,5.67-7.98,8.55c-0.87,0.78-1.75,1.53-2.64,2.25c-4.54,3.83-9.99,7.56-16.5,10.74
+	c-18.15,8.86-34.64,8.6-46.85,8.32c-12.22,0.28-28.7,0.54-46.85-8.32c-6.5-3.18-11.95-6.91-16.5-10.74
+	c-0.89-0.73-1.77-1.47-2.64-2.25c-3.18-2.87-5.8-5.78-7.98-8.55c-3.36-4.13-5.66-7.8-7.11-10.31
+	c-26.17,7.71-52.34,15.41-78.51,23.12c16.18,88.16,6.95,160.72-13.08,199.99c-7.89,15.47-22.12,43.38-54.73,62.89
+	c-4.01,2.4-7.84,4.39-11.36,6.05c-3.57,1.77-7.31,3.44-11.24,4.98C0,435.13,0,570.14,0,705.15z"/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.5;" points="194.47,597.36 135.01,537.77 135.01,589.34 194.47,648.92 "/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.5;" points="312.79,597.82 372.25,538.23 372.25,589.8 312.79,649.38 "/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.1;" points="253.58,655.98 313.04,596.39 313.04,647.96 253.68,707.45 253.68,708 194.22,648.42 194.22,596.85 
+	253.58,656.34 "/>
+<path class="Colour1 fill" style="fill-opacity:0.3" d="M312.79,494.61l59.46-59.58v51.56l-59.46,59.58V494.61z M194.47,494.15l-59.46-59.58v51.56l59.46,59.58V494.15z
+	 M253.58,501.53l-59.37-59.49v51.56l59.46,59.58v-0.55l59.37-59.49v-51.56l-59.46,59.58V501.53z M135.1,486.29L75.64,426.7v51.56
+	l59.46,59.58V486.29z"/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.5;" points="135.1,641.1 75.64,581.52 75.64,633.08 135.1,692.67 "/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.5;" points="372.16,641.56 431.62,581.98 431.62,633.54 372.16,693.13 "/>
+<path class="Colour1 fill" style="fill-opacity:0.3" d="M253.58,552.77l59.46-59.58v51.56l-59.37,59.49v0.55l-59.46-59.58v-51.56l59.37,59.49V552.77z M194.47,545.75
+	l-59.46-59.58v51.56l59.46,59.58V545.75z M431.62,684.51l59.46-59.58v-51.56l-59.46,59.58V684.51z M431.62,581.3l59.46-59.58v-51.56
+	l-59.46,59.58V581.3z"/>
+<line class="st5" x1="388.94" y1="148.24" x2="387.81" y2="148.68"/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.5;" points="491.08,624.97 431.62,684.55 431.62,705.15 462.52,705.15 491.08,676.53 "/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.5;" points="360.18,705.15 372.25,705.15 372.25,693.05 "/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.5;" points="308.48,705.15 313.04,705.15 313.04,700.57 "/>
+<path class="Colour1 fill" d="M135.1,641.06l-59.46-59.58v-51.56l59.46,59.58V641.06z M372.16,538.31l59.46-59.58v-51.56l-59.46,59.58V538.31
+	z M253.58,449.92l-59.37-59.49v51.56l59.46,59.58v-0.55l59.37-59.49v-51.56l-59.46,59.58V449.92z M312.79,494.57l59.46-59.58v-51.56
+	L312.79,443V494.57z M194.47,442.54l-59.46-59.58v51.56l59.46,59.58V442.54z M253.58,604.74l-59.37-59.49v51.56l59.46,59.58v-0.55
+	l59.37-59.49v-51.56l-59.46,59.58V604.74z M194.47,648.96l-59.46-59.58v51.56l59.46,59.58V648.96z M75.64,529.28l-59.46-59.58v51.56
+	l59.46,59.58V529.28z M75.64,632.49L16.18,572.9v51.56l59.46,59.58V632.49z M312.79,700.99l59.46-59.58v-51.56l-59.46,59.58V700.99z
+	 M312.79,597.78l59.46-59.58v-51.56l-59.46,59.58V597.78z M491.08,573.18v51.56l8.92-8.94c0-17.19,0-34.38,0-51.56L491.08,573.18z
+	 M135.01,705.15h12.53l-12.53-12.56V705.15z"/>
+<path class="Gradient1 stopColor fill stopColor fill" d="M372.16,589.96l59.46-59.58v51.56l-59.46,59.58V589.96z M491.08,676.39v28.75H500c0-12.56,0-25.13,0-37.69
+	L491.08,676.39z M411.7,705.15h19.92v-19.96L411.7,705.15z M372.25,641.44l-59.46,59.58v4.12h47.35l12.11-12.14V641.44z
+	 M75.64,705.15h20.37l-20.37-20.42V705.15z"/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.5;" points="16.18,624.51 16.18,676.07 45.19,705.15 75.64,705.15 75.64,684.09 "/>
+<g>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="75.64,580.88 16.18,521.3 16.18,572.86 75.64,632.45 	"/>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="431.62,581.34 491.08,521.76 491.08,573.32 431.62,632.91 	"/>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="372.16,538.35 431.62,478.77 431.62,530.33 372.16,589.92 	"/>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="135.1,537.89 75.64,478.31 75.64,529.87 135.1,589.46 	"/>
+	<path class="Gradient1 stopColor fill" style="fill-opacity:0.25;" d="M491.08,624.79v51.56l8.92-8.94c0-17.19,0-34.38,0-51.56L491.08,624.79z"/>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="462.56,705.15 491.08,705.15 491.08,676.57 	"/>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="431.62,633.58 372.16,693.17 372.16,705.15 411.66,705.15 431.62,685.15 	"/>
+	<g>
+		<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="194.22,648.46 194.22,700.02 199.33,705.15 250.79,705.15 		"/>
+		<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="313.04,648 256.01,705.15 307.47,705.15 313.04,699.56 		"/>
+	</g>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="75.64,633.12 75.64,684.69 96.05,705.15 135.1,705.15 135.1,692.71 	"/>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="135.01,640.98 135.01,692.55 147.58,705.15 194.47,705.15 194.47,700.57 	"/>
+	<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.25;" points="16.18,705.15 45.15,705.15 16.18,676.11 	"/>
+</g>
+<path class="NeckAndArmTrim fill" d="M0,316.64c10.47-3.56,26.35-10.05,42.57-21.83c75.09-54.56,73.4-161.65,72.75-202.37
+	c-0.41-25.74-3.59-49.61-8.33-71.3l-15.96,4.73c1.81,11.64,4.09,28.66,5.52,49.32c2.33,33.7,4.25,61.39-2.04,95.04
+	c-5.1,27.25-10.47,55.96-33.72,84.48C40.44,279.68,15.61,293.22,0,300.16V316.64z"/>
+<path class="NeckAndArmTrim fill" d="M500,316.64c-13.83-4.9-25.58-11.01-35.6-17.72c-108-72.34-75.39-254.01-70.83-277.61L409.53,26
+	c-15.68,101.74-1.74,181.18,18.49,213.19c21.61,34.2,50.58,50.94,50.58,50.94c8.77,5.07,16.53,8.23,21.41,10.04V316.64z"/>
+<path class="NeckAndArmTrim fill" d="M349.05,8.01c-3.84,6.65-10.41,16.24-21.12,25.44c-28.64,24.6-63.88,26.62-75.73,26.73
+	c-9.05,0.09-45.21-0.53-76.18-25.06c-12.2-9.66-19.74-19.98-24.14-27.11L168.8,3c6.34,9,21.88,28.05,48.96,36.16
+	c14.19,4.25,26.41,3.95,35.74,3.73c14.35-0.35,32.24-0.78,49.9-11.18c14.06-8.28,22.46-19.64,27.35-28.71L349.05,8.01z"/>
+<g id="BBodyLogos"></g>
+</svg>

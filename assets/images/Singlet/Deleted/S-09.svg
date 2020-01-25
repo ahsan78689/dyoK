@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 706" style="enable-background:new 0 0 500 706;" xml:space="preserve">
+<style type="text/css">
+	<![CDATA[
+	@font-face{font-family:'codaheavy';src:url('/fonts/coda-heavy-webfont.woff') format('woff')}
+	text{font-family:Impact,codaheavy,sans-serif}
+	.NeckAndArmTrim.fill{fill:#3AA1D3;}
+	.Colour1.fill{fill:#FFFFFF;}
+	.Gradient1.stopColor{stop-color:#3AA1D3;}
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#ECECEC;}
+	.st3{fill:#F1F7F9;}
+	.st5{fill:#8DCDE5;}
+	.st6{fill:#D1EBF3;}
+	.st7{fill:#3AA1D3;}
+	.st2{fill:#F7F9FA;}
+	.st4{fill:#FFFFFF;}
+	]]>
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="250" y1="-53.6807" x2="250" y2="764.6621">
+	<stop class="Gradient1 stopColor" offset="1.014270e-003" style="stop-color:#242E64; stop-opacity:1"/>
+	<stop class="Gradient1 stopColor" offset="0.1595" style="stop-color:#6BB4D4; stop-opacity:0.8405"/>
+	<stop class="Gradient1 stopColor" offset="0.1779" style="stop-color:#7CBBD7; stop-opacity:0.8221"/>
+	<stop class="Gradient1 stopColor" offset="0.2234" style="stop-color:#9FCBDF; stop-opacity:0.7766"/>
+	<stop class="Gradient1 stopColor" offset="0.2715" style="stop-color:#BDD8E5; stop-opacity:0.7285"/>
+	<stop class="Gradient1 stopColor" offset="0.3223" style="stop-color:#D3E2E9; stop-opacity:0.6777"/>
+	<stop class="Gradient1 stopColor" offset="0.3771" style="stop-color:#E3E9EC; stop-opacity:0.6229"/>
+	<stop class="Gradient1 stopColor" offset="0.4386" style="stop-color:#EDEEEE; stop-opacity:0.5614"/>
+	<stop class="Gradient1 stopColor" offset="0.5209" style="stop-color:#F0EFEF; stop-opacity:0.4791"/>
+	<stop class="Gradient1 stopColor" offset="0.5863" style="stop-color:#EDEDEE; stop-opacity:0.4137"/>
+	<stop class="Gradient1 stopColor" offset="0.6439" style="stop-color:#E2E7EB; stop-opacity:0.3561"/>
+	<stop class="Gradient1 stopColor" offset="0.6987" style="stop-color:#D0DDE5; stop-opacity:0.3013"/>
+	<stop class="Gradient1 stopColor" offset="0.7518" style="stop-color:#B6CFDD; stop-opacity:0.2482"/>
+	<stop class="Gradient1 stopColor" offset="0.8036" style="stop-color:#95BDD3; stop-opacity:0.1964"/>
+	<stop class="Gradient1 stopColor" offset="0.8537" style="stop-color:#6EA7C7; stop-opacity:0.1463"/>
+	<stop class="Gradient1 stopColor" offset="0.8701" style="stop-color:#5F9FC2; stop-opacity:0.1299"/>
+	<stop class="Gradient1 stopColor" offset="0.9482" style="stop-color:#47769F; stop-opacity:0.0518"/>
+	<stop class="Gradient1 stopColor" offset="1" style="stop-color:#365986; stop-opacity:0"/>
+</linearGradient>
+<path class="st0" d="M22.6,286.58c-8.92,5.34-17,8.72-22.6,10.78v14.58v390.7h500c0-135.01,0-270.02,0-405.02
+	c-9.76-3.84-18.38-8.41-26.01-13.47C376.05,219.22,404.94,51.13,410,23.82c-26.4-7.77-52.81-15.55-79.21-23.32
+	c-2.53,4.75-7.07,11.97-14.8,18.95c-22.51,20.33-52.68,21.02-65.53,21.31c-12.26,0.28-28.94,0.66-47.31-8.31
+	c-20.27-9.9-30.4-25.21-34.28-31.94c-26.17,7.63-52.34,15.26-78.52,22.9c16.26,88.3,7.03,160.98-13.02,200.3
+	C69.44,239.16,55.2,267.08,22.6,286.58z"/>
+<polygon class="Gradient1 stopColor fill" style="fill-opacity:0.01;" points="245.49,653.48 304.95,593.89 304.95,645.46 245.59,704.95 245.59,705.5 186.13,645.92 186.13,594.35 
+	245.49,653.84 "/>
+<path class="Colour1 fill" style="fill-opacity:0.3;" d="M304.7,492.11l59.46-59.58v51.56l-59.46,59.58V492.11z M186.38,491.65l-59.46-59.58v51.56l59.46,59.58V491.65z
+	 M245.49,499.03l-59.37-59.49v51.56l59.46,59.58v-0.55l59.37-59.49v-51.56l-59.46,59.58V499.03z M127.01,483.79L67.55,424.2v51.56
+	l59.46,59.58V483.79z"/>
+<path class="Gradient1 stopColor fill" style="fill-opacity:0.01;" d="M245.49,550.27l59.46-59.58v51.56l-59.37,59.49v0.55l-59.46-59.58v-51.56l59.37,59.49V550.27z M186.38,543.25
+	l-59.46-59.58v51.56l59.46,59.58V543.25z M423.53,682.01l59.46-59.58v-51.56l-59.46,59.58V682.01z M423.53,578.8l59.46-59.58v-51.56
+	l-59.46,59.58V578.8z"/>
+<path class="Colour1 fill" d="M127.01,638.56l-59.46-59.58v-51.56L127.01,587V638.56z M364.07,535.81l59.46-59.58v-51.56l-59.46,59.58V535.81
+	z M245.49,447.42l-59.37-59.49v51.56l59.46,59.58v-0.55l59.37-59.49v-51.56l-59.46,59.58V447.42z M304.7,492.07l59.46-59.58v-51.56
+	L304.7,440.5V492.07z M186.38,440.04l-59.46-59.58v51.56l59.46,59.58V440.04z M245.49,602.24l-59.37-59.49v51.56l59.46,59.58v-0.55
+	l59.37-59.49v-51.56l-59.46,59.58V602.24z M186.38,646.46l-59.46-59.58v51.56l59.46,59.58V646.46z M67.55,526.78L8.09,467.19v51.56
+	l59.46,59.58V526.78z M67.55,629.99L8.09,570.4v51.56l59.46,59.58V629.99z M304.7,698.49l59.46-59.58v-51.56l-59.46,59.58V698.49z
+	 M304.7,595.28l59.46-59.58v-51.56l-59.46,59.58V595.28z M482.99,570.68v51.56l8.92-8.94c0-17.19,0-34.38,0-51.56L482.99,570.68z
+	 M126.92,702.65h12.53l-12.53-12.56V702.65z"/>
+<path class="Gradient1 stopColor fill" style="fill-opacity:0.5;" d="M186.38,646.42l-59.46-59.58v-51.56l59.46,59.58V646.42z M304.7,646.88l59.46-59.58v-51.56l-59.46,59.58V646.88
+	z M127.01,638.6l-59.46-59.58v51.56l59.46,59.58V638.6z M364.07,690.63l59.46-59.58v-51.56l-59.46,59.58V690.63z M482.99,622.47
+	l-59.46,59.58v20.59h30.91l28.55-28.61V622.47z M352.09,702.65h12.07v-12.1L352.09,702.65z M300.39,702.65h4.56v-4.57L300.39,702.65
+	z M8.09,622.01v51.56l29.01,29.07h30.45v-21.05L8.09,622.01z"/>
+<path class="Gradient1 stopColor fill" style="fill-opacity:0.25;" d="M67.55,629.95L8.09,570.36V518.8l59.46,59.58V629.95z M423.53,630.41l59.46-59.58v-51.56l-59.46,59.58V630.41z
+	 M364.07,587.42l59.46-59.58v-51.56l-59.46,59.58V587.42z M127.01,535.39l-59.46-59.58v51.56l59.46,59.58V535.39z M482.99,622.29
+	v51.56l8.92-8.94c0-17.19,0-34.38,0-51.56L482.99,622.29z M454.47,702.65h28.51v-28.57L454.47,702.65z M423.53,631.08l-59.46,59.58
+	v11.98h39.5l19.96-20V631.08z M186.13,645.96v51.56l5.11,5.13h51.46L186.13,645.96z M304.95,645.5l-57.03,57.15h51.46l5.57-5.58
+	V645.5z M67.55,630.62v51.56l20.41,20.46h39.05v-12.44L67.55,630.62z M126.92,638.48v51.56l12.57,12.6h46.89v-4.58L126.92,638.48z
+	 M8.09,702.65h28.97L8.09,673.61V702.65z"/>
+<path class="Gradient1 stopColor fill" d="M364.07,587.46l59.46-59.58v51.56l-59.46,59.58V587.46z M482.99,673.89v28.75h8.92c0-12.56,0-25.13,0-37.69
+	L482.99,673.89z M403.61,702.65h19.92v-19.96L403.61,702.65z M364.16,638.94l-59.46,59.58v4.12h47.35l12.11-12.14V638.94z
+	 M67.55,702.65h20.37l-20.37-20.42V702.65z"/>
+<path class="NeckAndArmTrim fill" d="M500,311.94c0-4.77,0-9.55,0-14.32c-9.76-3.84-18.38-8.41-26.01-13.47
+	C376.05,219.22,404.94,51.13,410,23.82l-18.85-5.55c-3.96,21.06-36.62,208.07,72.44,277.04C473.8,301.77,485.81,307.55,500,311.94"
+	/>
+<path class="NeckAndArmTrim fill" d="M0,311.94c13.55-4.01,25.1-9.35,34.99-15.41c109.15-66.81,76.8-257.09,72.93-278.26L90.35,23.4
+	c16.26,88.3,7.03,160.98-13.02,200.3c-7.89,15.47-22.13,43.38-54.73,62.89c-8.92,5.34-17,8.72-22.6,10.78v6.7V311.94"/>
+<path class="NeckAndArmTrim fill" d="M152.75,5.2c-0.51,48.98,21.95,90.31,59.29,106.31c18.5,7.92,38.48,6.66,38.48,6.66
+	s21.65-0.61,42.43-10.96c30.63-15.25,52.12-54.69,53.8-102.01l-15.97-4.7c0.1,6.31-0.24,15.6-2.48,26.57
+	c-3.35,16.39-9.73,47.59-37.92,64.74c-17.76,10.8-36.08,11.11-40.21,11.1c-5.49-0.01-19.76-0.61-34.53-8.12
+	c-30.97-15.75-39.4-49.31-43.13-64.19c-3.09-12.3-3.67-22.85-3.64-30.11L152.75,5.2z"/>
+<path class="NeckAndArmTrim fill" d="M330.78,0.5c-2.53,4.75-7.07,11.97-14.8,18.95c-22.51,20.33-52.68,21.02-65.53,21.31
+	c-12.26,0.28-28.94,0.66-47.31-8.31c-20.27-9.9-30.4-25.21-34.28-31.94c-0.77,13.34,3.64,30.11,3.64,30.11
+	c7.63,5.73,36.55,26.04,79.31,25.47c40.55-0.54,67.83-19.52,75.75-25.47C327.57,30.61,331.28,15.41,330.78,0.5z"/>
+<path class="st4" d="M290.14,91.81c-17.76,10.8-36.08,11.11-40.21,11.1c-5.49-0.01-19.76-0.61-34.53-8.12
+	c-30.97-15.75-39.4-49.31-43.13-64.19c7.63,5.73,36.55,26.04,79.31,25.47c40.55-0.54,67.83-19.52,75.75-25.47
+	C323.75,47.63,316.43,75.83,290.14,91.81z"/>
+<g id="FBodyLogos"></g>
+</svg>

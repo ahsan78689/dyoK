@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 706" style="enable-background:new 0 0 500 706;" xml:space="preserve">
+<style type="text/css">
+	<![CDATA[
+	@font-face{font-family:'codaheavy';src:url('/fonts/coda-heavy-webfont.woff') format('woff')}
+	text{font-family:Impact,codaheavy,sans-serif}
+	.Number.fill{fill:#000}
+	.NumberOutline.stroke{fill:none;stroke:#777;stroke-width:2.5}
+	.Colour1.fill{fill:#01A8E9;}
+	.Colour2.fill{fill:#195393;}
+	.Colour3.fill{fill:#254583;}
+	.NeckAndArmTrim.fill{fill:#1B75BB;}
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	]]>
+</style>
+<radialGradient id="SVGID_1_" cx="250" cy="353" r="178.4234" gradientTransform="matrix(1.7136 0 0 1.7122 -178.3905 -251.4082)" gradientUnits="userSpaceOnUse">
+	<stop class="Gradient1 stopColor" offset="0.0909" style="stop-color:#1672B9"/>
+	<stop class="Gradient2 stopColor" offset="1" style="stop-color:#254583"/>
+</radialGradient>
+<path class="Colour3 fill" d="M473.99,284.78C376.05,219.71,404.94,51.24,410,23.88c-26.4-7.79-52.81-15.58-79.21-23.38
+	c-2.53,4.76-7.07,12-14.8,18.99c-22.51,20.38-52.68,21.06-65.53,21.36c-12.26,0.28-28.94,0.66-47.31-8.33
+	c-20.27-9.92-30.4-25.27-34.28-32.01c-26.17,7.65-52.34,15.3-78.52,22.95c16.26,88.49,7.03,161.34-13.02,200.75
+	c-7.89,15.5-22.12,43.48-54.73,63.03c-8.92,5.35-17,8.74-22.6,10.8v14.61V705.5h500c0-135.08,0-272.14,0-407.22
+	C490.24,294.44,481.62,289.85,473.99,284.78z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="747.9653" y1="379.4095" x2="1403.5088" y2="379.4095" gradientTransform="matrix(-1 0 0 1 985.3249 0)">
+	<stop class="Gradient4 stopColor" offset="0" style="stop-color:#00ADEE"/>
+	<stop class="Gradient5 stopColor" offset="0.0208" style="stop-color:#01A8E9"/>
+	<stop class="Gradient6 stopColor" offset="0.2555" style="stop-color:#0E79B9"/>
+	<stop class="Gradient7 stopColor" offset="0.478" style="stop-color:#195393"/>
+</linearGradient>
+<path class="Colour1 fill" d="M0,568.02l0-96.08l141.91-136.5l-82.24-79.11c0.91-1.16,1.8-2.32,2.67-3.5c0.45-0.6,0.88-1.2,1.32-1.8
+	c0.21-0.3,0.44-0.59,0.65-0.89c12.8-17.82,21.46-38.19,27.11-59.34l150.38,144.65L0,568.02z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="860.2956" y1="357.4212" x2="1461.0465" y2="357.4212" gradientTransform="matrix(-1 0 0 1 985.3249 0)">
+	<stop class="Gradient1 stopColor" offset="0" style="stop-color:#1672B9"/>
+	<stop class="Gradient3 stopColor" offset="1" style="stop-color:#292F6D"/>
+</linearGradient>
+<path class="Colour2 fill" d="M0,340.13l6.62-6.57L0,326.99l0-29.06c9.47-3.77,17.88-8.23,25.34-13.15c8.52-5.62,16.07-12.02,22.78-19.03
+	l68.36,67.8L0,449.09L0,340.13z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="774.8544" y1="500.7462" x2="-139.475" y2="500.7462" gradientTransform="matrix(-1 0 0 1 985.3249 0)">
+	<stop class="Gradient4 stopColor" offset="0" style="stop-color:#00ADEE"/>
+	<stop class="Gradient5 stopColor" offset="0.0208" style="stop-color:#01A8E9"/>
+	<stop class="Gradient6 stopColor" offset="0.2555" style="stop-color:#0E79B9"/>
+	<stop class="Gradient7 stopColor" offset="0.478" style="stop-color:#195393"/>
+</linearGradient>
+<path class="Colour1 fill" d="M500,389.38L307.69,582.71L429.83,705.5h-97.22L210.47,582.71l285.2-286.72c1.56,0.65,3,1.22,4.32,1.72V389.38z
+	"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="646.1633" y1="558.0589" x2="106.2933" y2="558.0589" gradientTransform="matrix(-1 0 0 1 985.3249 0)">
+	<stop class="Gradient1 stopColor" offset="0" style="stop-color:#1672B9"/>
+	<stop class="Gradient3 stopColor" offset="1" style="stop-color:#292F6D"/>
+</linearGradient>
+<polygon class="Colour2 fill" points="499.14,705.5 451.27,705.5 329.5,582.28 499.14,410.62 499.14,520.96 438.55,582.28 499.14,643.59 "/>
+<g id="BBodyLogos"></g>
+<path class="NeckAndArmTrim fill" d="M0,314.84c10.47-3.57,26.35-10.07,42.57-21.88c75.33-54.86,73.2-169.57,72.75-202.82
+	c-0.38-28.28-4.15-52.54-8.33-71.45c-5.55,1.59-11.09,3.17-16.64,4.76c2.1,11.81,4.67,28.81,6.19,49.41
+	c2.01,27.17,4.22,56.99-2.53,92.88c-4.82,25.61-10.23,54.41-31.91,83.32c-21.01,28.02-47,42.4-62.11,49.26V314.84z"/>
+<path class="NeckAndArmTrim fill" d="M500,314.84c-13.83-4.91-25.58-11.04-35.61-17.76c-108-72.5-75.39-254.57-70.83-278.23
+	c5.48,1.68,10.95,3.35,16.43,5.03c-7.62,38.39-8.25,70.51-7.32,92.9c1.54,37.26,3.27,79.28,28.49,120.71
+	c7.97,13.1,25.67,41.35,59.59,57.04c3.79,1.75,7.02,3,9.24,3.8V314.84z"/>
+<path class="NeckAndArmTrim fill" d="M349.05,5.52c-3.84,6.67-10.41,16.28-21.12,25.5c-28.64,24.65-63.88,26.68-75.73,26.79
+	c-9.05,0.09-45.21-0.53-76.18-25.12c-12.2-9.68-19.74-20.03-24.14-27.17L168.8,0.5c6.34,9.02,21.88,28.12,48.96,36.24
+	c14.25,4.27,25.61,4.1,35.74,3.74c14.72-0.53,31.28-1.13,48.55-11.19c6.51-3.8,18.72-12.2,28.71-28.78L349.05,5.52z"/>
+</svg>
