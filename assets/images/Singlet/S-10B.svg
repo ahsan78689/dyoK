@@ -10,7 +10,7 @@
 	.NumberOutline.stroke{fill:none;stroke:#777;stroke-width:2.5}
 	.Colour1.fill{fill-rule:evenodd;clip-rule:evenodd;fill:#B9041A;}
 	.Colour2.fill{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
-	.InnnerTrim.fill{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
+	.InnerTrim.fill{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
 	.NeckAndArmTrim.fill{fill:#B9041A;}
 	.Gradient1.stopColor{stop-color:#929497;}
 	.Gradient2.stopColor{stop-color:#404041;}

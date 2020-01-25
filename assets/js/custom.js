@@ -280,12 +280,12 @@ STYLE["Rugby"] = ["Style1"];
 
 DESIGNS["Singlet"] = ["S-01", "S-02", "S-03", "S-04", "S-05", "S-06", "S-07", "S-08", "S-09", "S-10", "S-11", "S-12", "S-13", "S-14", "S-15", "S-16"];
 
-DESIGNS["Tee"] = ["T-01", "T-02", "T-03", "T-04", "T-05", "T-06", "T-07", "T-08", "T-09", "T-10", "T-11", "T-12", "T-13", "T-14", "T-15", "T-16", "T-17", "T-18", "T-19", "T-20", "T-21"];
+DESIGNS["Tee"] = ["T-01", "T-02", "T-03", "T-04", "T-05", "T-06", "T-07", "T-08", "T-09", "T-10", "T-11", "T-12", "T-13", "T-14", "T-15", "T-16", "T-17", "T-18", "T-19"];
 
 DESIGNS["Netball"] = ["Netball-01", "Netball-02", "Netball-03", "Netball-04", "Netball-05", "Netball-06", "Netball-07", "Netball-08", "Netball-09", "Netball-10", "Netball-11", "Netball-12", "Netball-13", "Netball-14", "Netball-15", "Netball-16", "Netball-17", "Netball-18", "Netball-19", "Netball-20", "Netball-21", "Netball-22", "Netball-23", "Netball-24", "Netball-25"];
 
 DESIGNS["Polo"] = ["Polo-01", "Polo-02", "Polo-03", "Polo-04", "Polo-05", "Polo-06", "Polo-07", "Polo-08", "Polo-09", "Polo-10", "Polo-11", "Polo-12", "Polo-13", "Polo-14", "Polo-15", "Polo-16","Polo-17", "Polo-18", "Polo-19", "Polo-20", "Polo-21"];
-DESIGNS["Rugby"] = ["KBRJ-01", "KBRJ-02", "KBRJ-03", "KBRJ-04", "KBRJ-05", "KBRJ-06", "KBRJ-07", "KBRJ-08", "KBRJ-09", "KBRJ-10", "KBRJ-11", "KBRJ-12", "KBRJ-13", "KBRJ-14", "KBRJ-15", "KBRJ-16","KBRJ-17", "KBRJ-18", "KBRJ-19", "KBRJ-20"];
+DESIGNS["Rugby"] = ["KBRJ-01", "KBRJ-02", "KBRJ-03", "KBRJ-04", "KBRJ-05", "KBRJ-06", "KBRJ-07", "KBRJ-08", "KBRJ-09", "KBRJ-10", "KBRJ-11", "KBRJ-12", "KBRJ-13", "KBRJ-14", "KBRJ-15", "KBRJ-16","KBRJ-17", "KBRJ-18", "KBRJ-19"];
 
 SVGDIR["Singlet"] = "Singlet";
 SVGDIR["Tee"] = "Tee";
@@ -1771,6 +1771,7 @@ defcols = {
     "NeckAndArmTrim": "Airforce Blue",
     "NeckTrim": "Airforce Blue",
     "ArmTrim": "Airforce Blue",
+    "SidePanels": "Airforce Blue",
     "InnerTrim": "Natural",
     "Insert": "Azure",
     "Gradient1" : "Gold",

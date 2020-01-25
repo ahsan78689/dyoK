@@ -13,6 +13,7 @@
 	.Colour3.fill{fill:#0B0D2D;}
 	.Colour4.fill{fill:#1E2258;}
 	.NeckAndArmTrim.fill{fill:#0B0D2D;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.BottomHem.fill{fill:#0D143A;}
 	.st0{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:2;}
 	.st1{fill:url(#SVGID_2_);}
 	.st2{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
@@ -275,5 +276,7 @@
 	C52.87,198.57,28.15,189.07,6.98,176.34z M79.23,241.96l18.21-54.46c-1.02-10.08-3-23.88-6.81-39.7l-35.55,90.7
 	C63.87,241.15,72.34,242.66,79.23,241.96z M325.18,461.35l37.68-21.61l1.55-0.89l0.1-1.66l10.42-164.48l-16.82,163.95l1.65-2.54
 	l-38.49,20.13L325.18,461.35z"/>
+<path class="BottomHem fill" d="M247.5,559.16c124.55-4.96,147.55-20.81,147.55-20.81l1.37,14.84c0,0-34.6,17.87-149.34,20.81
+	c0,0-105.75-1.2-148.49-20.81l1.37-14.84C99.96,538.35,122.96,554.21,247.5,559.16"/>
 <g id="BBodyLogos"></g>
 </svg>

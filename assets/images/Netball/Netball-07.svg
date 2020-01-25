@@ -7,8 +7,8 @@
 	@font-face{font-family:'codaheavy';src:url('/fonts/coda-heavy-webfont.woff') format('woff')}
 	text{font-family:Impact,codaheavy,sans-serif}
 	.Colour1.fill{fill:#211E1F;}
-	.Colour2.fill{fill-rule:evenodd;clip-rule:evenodd;fill:#DD1A56;}
 	.NeckAndArmTrim.fill{fill:#DD1A56;stroke:#040404;stroke-width:0.9921;stroke-miterlimit:10;}
+	.SidePanels.fill{fill:#DD1A56;stroke:#000000;stroke-miterlimit:10;}
 	.st0{fill:none;stroke:#211E1F;stroke-linecap:round;stroke-linejoin:round;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
 	.st2{fill:none;stroke:#040404;stroke-width:0.9921;stroke-miterlimit:10;}
@@ -44,11 +44,11 @@
 <rect x="109.28" y="322.36" class="st3" width="32.01" height="12.16"/>
 <rect x="109.28" y="310.21" class="st3" width="32.01" height="12.16"/>
 <rect x="193.99" y="310.21" class="st3" width="32.01" height="12.16"/>
-<path class="Colour2 fill" d="M301.99,174.71c-0.02,0.05-7.1,19.03-10.65,31.6c-18.45,65.18-12.74,120.53,2.59,211.09
+<path class="SidePanels fill" d="M301.99,174.71c-0.02,0.05-7.1,19.03-10.65,31.6c-18.45,65.18-12.74,120.53,2.59,211.09
 	c10.9,64.39,24.27,132.28,40.67,203.26c-11.54,2.93-24.11,5.8-37.64,8.43c0,0-17.59-68.23-26.83-116.67
 	c-10.7-56.16-20.2-105.94-21.63-163.97c-1.12-45.65,2.31-113.8,26.31-196.51l0.17-0.72c3.41,8.7,9.05,18.5,18.95,22.09
 	c3.1,1.12,5.9,1.36,7.76,1.4H301.99z"/>
-<path class="Colour2 fill" d="M31.47,175.04c2.72,7.36,5.91,16.77,8.93,27.79c10.9,39.8,13.74,78.93,10.38,128.56
+<path class="SidePanels fill" d="M31.47,175.04c2.72,7.36,5.91,16.77,8.93,27.79c10.9,39.8,13.74,78.93,10.38,128.56
 	C43.02,446.03,2.42,613.23,0.6,620.66c10.99,2.79,22.95,5.53,35.83,8.07c0,0,19.59-80.04,29.5-135.86
 	c5.09-28.66,13.05-73.47,16.44-114.37c4.22-50.86,4.16-129.04-21.97-228.52l-0.19-0.72c-4.36,10.72-9.98,18.03-18.08,22.32
 	c-4,2.11-7.74,3.03-10.39,3.47H31.47z"/>

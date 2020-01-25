@@ -195,7 +195,7 @@ html, body {
 }
 
 #DesignSel li img:hover {
-    filter: drop-shadow(0 0 3px #F00);
+    filter: drop-shadow(0 0 3px #009ddf);
     transition: filter .1s ease-out
 }
 
@@ -587,7 +587,7 @@ section.active {
 }
 
 #GarSel img:hover {
-    filter: drop-shadow(0 0 3px rgba(255,0,0,0.5));
+    filter: drop-shadow(0 0 3px #009ddf);
     transition: filter .1s ease-out;
 }
 
@@ -633,7 +633,7 @@ section.active {
 }
 
 #StyleSel img:hover {
-    filter: drop-shadow(0 0 3px rgba(255,0,0,0.5));
+    filter: drop-shadow(0 0 3px #009ddf);
 }
 
 #StyleSel .chosen img {
